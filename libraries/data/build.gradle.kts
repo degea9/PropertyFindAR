@@ -107,6 +107,7 @@ dependencies {
 
     implementation(Deps.KOTLIN)
     implementation(Deps.ANDROIDX_CORE_KTX)
+    implementation(Deps.LOGGING_INTERCEPTOR)
 
     // Dagger
     implementation(Deps.DAGGER_HILT_ANDROID)
