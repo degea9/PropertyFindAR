@@ -27,6 +27,8 @@ object Deps {
     const val SWIPE_REFRESH_LAYOUT =
         "androidx.swiperefreshlayout:swiperefreshlayout:${Version.SWIPE_REFRESH_LAYOUT_VERSION}"
 
+    const val LOGGING_INTERCEPTOR = "com.squareup.okhttp3:logging-interceptor:4.2.1"
+
 
     // Lifecycle, ViewModel and LiveData
 
